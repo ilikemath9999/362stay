@@ -14,25 +14,25 @@
 <link href="/favicon.svg" rel="icon" type="image/svg+xml"/>
 <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
 <meta content="no-referrer-when-downgrade" name="referrer"/>
-<title>Automatic Stay Exceptions - What Is Not Covered - 362 Stay</title>
-<meta content="Learn about automatic stay exceptions - what is not covered | automaticstay.org in our free 2026 guide." name="description"/>
-<meta content="automatic stay exceptions what is not covered, Section 362(b), criminal proceedings bankruptcy, domestic support obligation, eviction bankruptcy" name="keywords"/>
-<link href="https://automaticstay.org/stay-exceptions.html" rel="canonical"/>
-<meta content="Automatic Stay Exceptions - What Is Not Covered - 362 Stay" property="og:title"/>
-<meta content="Learn about automatic stay exceptions - what is not covered | automaticstay.org in our free 2026 guide." property="og:description"/>
+<title>Automatic Stay: Business vs Personal Bankruptcy - 362 Stay</title>
+<meta content="Learn about automatic stay: business vs personal bankruptcy | automaticstay.org in our free 2026 guide. Clear explanations, real data, and prac..." name="description"/>
+<meta content="automatic stay business vs personal bankruptcy, business bankruptcy stay, LLC bankruptcy, partnership bankruptcy automatic stay" name="keywords"/>
+<link href="https://automaticstay.org/business-vs-personal.html" rel="canonical"/>
+<meta content="Automatic Stay: Business vs Personal Bankruptcy - 362 Stay" property="og:title"/>
+<meta content="Learn about automatic stay: business vs personal bankruptcy | automaticstay.org in our free 2026 guide. Clear explanations, real data, and prac..." property="og:description"/>
 <meta content="article" property="og:type"/>
-<meta content="https://automaticstay.org/stay-exceptions.html" property="og:url"/>
+<meta content="https://automaticstay.org/business-vs-personal.html" property="og:url"/>
 <meta content="automaticstay.org" property="og:site_name"/>
 <meta content="summary_large_image" name="twitter:card"/>
-<meta content="Automatic Stay Exceptions - What Is Not Covered - 362 Stay" name="twitter:title"/>
-<meta content="Learn about automatic stay exceptions - what is not covered | automaticstay.org in our free 2026 guide." name="twitter:description"/>
+<meta content="Automatic Stay: Business vs Personal Bankruptcy - 362 Stay" name="twitter:title"/>
+<meta content="Learn about automatic stay: business vs personal bankruptcy | automaticstay.org in our free 2026 guide. Clear explanations, real data, and prac..." name="twitter:description"/>
 <meta content="https://automaticstay.org/og-image.svg" property="og:image"/>
 <meta content="https://automaticstay.org/og-image.svg" name="twitter:image"/>
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"Organization","name":"Open Bankruptcy Project","url":"https://1328f.org"}
 </script>
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://automaticstay.org/"},{"@type":"ListItem","position":2,"name":"Stay Exceptions","item":"https://automaticstay.org/stay-exceptions.html"}]}
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://automaticstay.org/"},{"@type":"ListItem","position":2,"name":"Business vs Personal","item":"https://automaticstay.org/business-vs-personal.html"}]}
 </script>
 <script type="application/ld+json">
 {
@@ -40,8 +40,8 @@
   "@graph": [
     {
       "@type": "Article",
-      "headline": "Automatic Stay Exceptions - What Is Not Covered",
-      "description": "The automatic stay has over 25 exceptions under Section 362(b). Criminal proceedings, tax audits, domestic support, and certain evictions are not stopped by ban",
+      "headline": "Business vs Personal Automatic Stay",
+      "description": "The automatic stay under Section 362 applies equally to business and personal bankruptcies. But business assets, partnerships, and LLCs may get different treatm",
       "author": {
         "@type": "Organization",
         "name": "Open Bankruptcy Project"
@@ -53,12 +53,12 @@
       },
       "datePublished": "2026-03-28",
       "dateModified": "2026-03-29",
-      "mainEntityOfPage": "https://automaticstay.org/stay-exceptions.html"
+      "mainEntityOfPage": "https://automaticstay.org/business-vs-personal.html"
     },
     {
       "@type": "WebPage",
-      "name": "Automatic Stay Exceptions - What Is Not Covered",
-      "url": "https://automaticstay.org/stay-exceptions.html",
+      "name": "Business vs Personal Automatic Stay",
+      "url": "https://automaticstay.org/business-vs-personal.html",
       "speakable": {
         "@type": "SpeakableSpecification",
         "cssSelector": [
@@ -116,31 +116,10 @@
   }
 </style>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "What is a bankruptcy mill?", "acceptedAnswer": {"@type": "Answer", "text": "A bankruptcy mill is a high-volume law firm that processes large numbers of bankruptcy cases with minimal attorney involvement. Cases are often handled by paralegals or software, leading to errors, missed deadlines, and poor outcomes for clients."}}, {"@type": "Question", "name": "How do I know if my bankruptcy attorney is a mill?", "acceptedAnswer": {"@type": "Answer", "text": "Warning signs include: you rarely speak with an actual attorney, your case is one of hundreds filed monthly, communications come only from paralegals, hearings are attended by attorneys you have never met, and billing entries are generic or duplicated."}}, {"@type": "Question", "name": "What problems do bankruptcy mills cause?", "acceptedAnswer": {"@type": "Answer", "text": "Common issues include missed deadlines, incorrect schedules, failure to claim available exemptions, dismissed cases, unnecessary fees, and lack of personalized legal advice. Clients may lose assets they could have protected with competent counsel."}}, {"@type": "Question", "name": "Can I fire my bankruptcy attorney if they are a mill?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. You can substitute counsel or proceed pro se at any time. File a motion to substitute counsel with the court. You may also be entitled to a refund of fees for work not performed or performed negligently."}}, {"@type": "Question", "name": "How many cases should a bankruptcy attorney handle?", "acceptedAnswer": {"@type": "Answer", "text": "There is no hard limit, but attorneys filing more than 20-30 cases per month may struggle to provide adequate individual attention. Quality representation requires reviewing each client's unique financial situation, assets, and exemptions."}}]}
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "What is the automatic stay in bankruptcy?", "acceptedAnswer": {"@type": "Answer", "text": "The automatic stay is a court order that takes effect immediately when you file bankruptcy. It stops most collection actions, lawsuits, foreclosures, repossessions, wage garnishments, and creditor harassment. It remains in effect until the case is closed or the debt is discharged."}}, {"@type": "Question", "name": "Can a creditor violate the automatic stay?", "acceptedAnswer": {"@type": "Answer", "text": "Creditors who violate the automatic stay can be held in contempt of court. You may recover actual damages, attorney fees, and in some cases punitive damages. Common violations include continued collection calls, repossessing property, or proceeding with a lawsuit after notice of the filing."}}, {"@type": "Question", "name": "How long does the automatic stay last?", "acceptedAnswer": {"@type": "Answer", "text": "The stay lasts until the bankruptcy case is closed, dismissed, or the debtor receives a discharge. If you filed a previous case that was dismissed within the past year, the stay may only last 30 days unless you file a motion to extend it."}}, {"@type": "Question", "name": "Does the automatic stay stop eviction?", "acceptedAnswer": {"@type": "Answer", "text": "The stay temporarily stops most evictions, but landlords can request relief from stay. If the landlord already obtained a judgment for possession before you filed, the stay may not apply at all. The protection is limited and temporary in most eviction situations."}}, {"@type": "Question", "name": "What should I know before filing bankruptcy?", "acceptedAnswer": {"@type": "Answer", "text": "Bankruptcy is a legal process that can eliminate or restructure debts, but it has lasting effects on your credit and financial life. Before filing, understand which debts can be discharged, what property you can keep through exemptions, and which chapter fits your situation."}}]}
 </script>
-<link href="https://automaticstay.org/stay-exceptions.html" hreflang="en" rel="alternate"/>
-<link href="https://automaticstay.org/stay-exceptions-es.html" hreflang="es" rel="alternate"/>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NonprofitOrganization",
-  "name": "Open Bankruptcy Project",
-  "alternateName": "OBP",
-  "url": "https://openbankruptcyproject.org",
-  "email": "info@openbankruptcyproject.org",
-  "taxID": "41-5159631",
-  "nonprofitStatus": "Nonprofit501c3",
-  "description": "The Open Bankruptcy Project is a 501(c)(3) nonprofit providing free tools, research, and consumer guides to help people navigate the federal bankruptcy system. We also conduct and publish empirical research on how the system actually works for consumers and share findings with rule-making bodies, regulators, and the public.",
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "1000 W 100th St",
-    "addressLocality": "Kansas City",
-    "addressRegion": "MO",
-    "postalCode": "64114",
-    "addressCountry": "US"
-  }
-}
-</script>
+<link href="https://automaticstay.org/business-vs-personal.html" hreflang="en" rel="alternate"/>
+<link href="https://automaticstay.org/business-vs-personal-es.html" hreflang="es" rel="alternate"/>
 </head>
 <body>
 <a class="skip-link" href="#main-content">Skip to main content</a>
@@ -155,65 +134,55 @@
 <a href="/relief-from-stay.html">Relief from Stay</a>
 <a href="/exceptions.html">Exceptions</a>
 <a href="/duration.html">Duration</a>
-<a class="active" href="/stay-exceptions.html">Stay Exceptions</a>
-<a href="/business-vs-personal.html">Business vs Personal</a>
+<a href="/stay-exceptions.html">Stay Exceptions</a>
+<a class="active" href="/business-vs-personal.html">Business vs Personal</a>
 </div>
 </nav>
 <header>
-<h1><span class="accent">Automatic Stay Exceptions</span> - What Is Not Covered</h1>
-<p class="subtitle">Over 25 categories of actions that the automatic stay does not stop</p>
+<h1><span class="accent">Business vs Personal</span> Automatic Stay</h1>
+<p class="subtitle">The same <a href="https://www.law.cornell.edu/uscode/text/11/362" rel="noopener" target="_blank">Section 362</a> applies to both, but business cases have unique considerations</p>
 </header>
-<div aria-label="Breadcrumb" class="breadcrumb"><a href="/">Home</a> › Stay Exceptions</div>
+<div aria-label="Breadcrumb" class="breadcrumb"><a href="/">Home</a> › Business vs Personal</div>
 <main id="main-content">
 <div class="content-section">
-<h2>Section 362(b) Exceptions</h2>
-<p>While the <a href="https://automaticstay.org/" title="automatic stay">automatic stay</a> is broad, it is not absolute. Section 362(b) of the Bankruptcy Code lists specific actions that are <strong>not</strong> stopped by the filing of a bankruptcy petition. Here are the most important ones:</p>
+<h2>Same Statute, Different Application</h2>
+<p>The <a href="https://automaticstay.org/" title="automatic stay">automatic stay</a> under 11 U.S.C. Section 362(a) applies the moment any bankruptcy petition is filed - whether it is filed by an individual, a corporation, an LLC, or a partnership. The same statutory protections apply regardless of the debtor's entity type.</p>
+<p>However, the practical effects can differ significantly between personal and business bankruptcies.</p>
 </div>
 <div class="content-section">
-<h2>Criminal Proceedings</h2>
-<p>The <a href="https://automaticstay.org/" title="automatic stay">automatic stay</a> does not stop criminal prosecutions. If you are facing criminal charges - even for writing bad checks or fraud - the criminal case proceeds regardless of your bankruptcy filing. The stay only applies to civil collection activity, not criminal law enforcement.</p>
-</div>
-<div class="content-section">
-<h2>Domestic Support Obligations</h2>
-<p>Child support and alimony (domestic support obligations under Section 101(14A)) are not stayed. Actions to establish paternity, establish or modify a support order, collect support from property that is not part of the <a href="https://1328f.com/glossary.html#estate" title="estate">bankruptcy estate</a>, and withhold income for support all continue unaffected.</p>
-<p>This is one of the broadest exceptions. Even <a href="https://garnishedwages.org" rel="noopener" target="_blank" title="Wage Garnishment and Bankruptcy - Open Bankruptcy Project">wage garnishment</a> for child support or alimony continues through bankruptcy.</p>
-</div>
-<div class="content-section">
-<h2>Tax Proceedings</h2>
-<p>Several tax-related actions are exempt from the stay:</p>
+<h2>What the Stay Protects in Business Cases</h2>
+<p>When a business entity files bankruptcy, the stay protects:</p>
 <ul>
-<li>Tax audits and assessments</li>
-<li>Issuance of a notice of tax deficiency</li>
-<li>Demand for tax returns</li>
-<li>Making an assessment of any tax and issuing a notice and demand for payment</li>
+<li>All property of the <a href="https://1328f.com/glossary.html#estate" title="estate">bankruptcy estate</a> (inventory, equipment, accounts receivable, real property)</li>
+<li>The business entity itself from lawsuits and collection</li>
+<li>Business bank accounts from freezing or setoff (with some exceptions for financial institutions)</li>
+<li>Leased property from termination (with conditions)</li>
 </ul>
-<p>However, the IRS and state tax agencies cannot <em>collect</em> on tax debts during the stay (unless they get <a href="https://relieffromstay.org" rel="noopener" target="_blank" title="Relief from Automatic Stay - Open Bankruptcy Project">relief from stay</a>). The exception allows auditing and assessment, but not collection.</p>
 </div>
 <div class="content-section">
-<h2>Eviction Actions (Limited)</h2>
-<p>Under Section 362(b)(22), if the landlord obtained a judgment for possession of the property <em>before</em> the bankruptcy was filed, the eviction can proceed. The debtor can delay this by filing a certification and depositing rent with the court, but the window is narrow (30 days).</p>
-<p>If no pre-petition eviction judgment exists, the stay does stop the eviction temporarily - though the landlord can quickly file for <a href="https://relieffromstay.org" rel="noopener" target="_blank" title="Relief from Automatic Stay - Open Bankruptcy Project">relief from stay</a>.</p>
+<h2>What the Stay Does NOT Protect</h2>
+<h3>Guarantors and Co-Obligors</h3>
+<p>In personal <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a> or <a href="https://section1191.org/" title="Chapter 11">Chapter 11</a>, the stay protects the debtor but <strong>not</strong> co-debtors or guarantors. If a business owner personally guaranteed a business loan, creditors can pursue the personal guaranty even while the business is in bankruptcy - unless the individual also files.</p>
+<p>Exception: In <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a>, the <a href="https://codebtorstay.org">co-debtor stay</a> under Section 1301 protects individuals who are co-liable on consumer debts with the debtor. But this only applies to consumer debts of individuals, not business obligations.</p>
+<h3>Partners in a Partnership Case</h3>
+<p>When a partnership files bankruptcy, the stay does not automatically protect the individual partners. Creditors can pursue the partners individually on partnership debts unless the partners also file their own bankruptcy cases.</p>
 </div>
 <div class="content-section">
-<h2>Regulatory and Police Power Actions</h2>
-<p>Government actions to enforce regulatory or police powers are not stayed. This includes environmental enforcement, health and safety regulation, licensing actions, and similar governmental exercises of regulatory authority. The test is whether the government is acting in its regulatory capacity (not stayed) or as a creditor seeking to collect money (stayed).</p>
+<h2>LLCs and the Automatic Stay</h2>
+<p>When an LLC files bankruptcy, the stay protects the LLC's assets but not the personal assets of the LLC's members. If members have personal exposure (for example, through personal guarantees, pierced corporate veils, or fraud), creditors can pursue the members individually.</p>
+<p>Conversely, when an individual member files personal bankruptcy, the stay does not protect the LLC or its assets (since the LLC is a separate legal entity). The debtor's membership interest in the LLC is part of the <a href="https://1328f.com/glossary.html#estate" title="estate">bankruptcy estate</a>, but the LLC itself is not in bankruptcy.</p>
 </div>
 <div class="content-section">
-<h2>Other Notable Exceptions</h2>
-<ul>
-<li><strong>Pension loan setoff:</strong> Loans from retirement plans can continue to be repaid through payroll deduction</li>
-<li><strong>Presentment of negotiable instruments:</strong> Checks can still be deposited and processed</li>
-<li><strong>Securities regulation:</strong> SEC and CFTC enforcement actions</li>
-<li><strong>Certain setoffs:</strong> Setoffs by commodity brokers, forward contract merchants, and financial institutions under safe harbors</li>
-</ul>
+<h2>Sole Proprietorships: No Distinction</h2>
+<p>A sole proprietorship is not a separate legal entity from its owner. When the owner files personal bankruptcy, the stay protects both personal and business assets equally. All business debts are personal debts. All business assets are the debtor's assets. There is no distinction between the business and the individual.</p>
 </div>
 <div class="content-section">
 <h2>Cross-References</h2>
 <ul>
-<li><a href="/exceptions.html">Exceptions overview</a></li>
-<li><a href="https://automaticstay.org">automaticstay.org</a> - Full <a href="https://www.law.cornell.edu/uscode/text/11/362" rel="noopener" target="_blank">Section 362</a> guide</li>
-<li><a href="https://relieffromstay.org">relieffromstay.org</a> - When creditors can get the stay lifted</li>
-<li><a href="https://serialfiler.org">serialfiler.org</a> - <a href="https://serialfiler.org" rel="noopener" target="_blank" title="Repeat Bankruptcy Filers - Open Bankruptcy Project">Repeat filer</a> stay restrictions</li>
+<li><a href="https://automaticstay.org">automaticstay.org</a> - Comprehensive Section 362 guide</li>
+<li><a href="https://relieffromstay.org">relieffromstay.org</a> - <a href="https://relieffromstay.org" rel="noopener" target="_blank" title="Relief from Automatic Stay - Open Bankruptcy Project">Relief from stay</a> for secured creditors</li>
+<li><a href="https://codebtorstay.org">codebtorstay.org</a> - <a href="https://codebtorstay.org" rel="noopener" target="_blank" title="Co-Debtor Stay - Open Bankruptcy Project">Co-debtor stay</a> in <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a></li>
+<li><a href="https://serialfiler.org">serialfiler.org</a> - Stay limitations for repeat filers</li>
 </ul>
 </div>
 </main>
@@ -265,8 +234,8 @@
 <p style="color:#f0f6fc;font-weight:700;font-size:1.05rem;margin:0 0 0.75rem 0">You May Also Find Helpful</p>
 <ul style="list-style:none;padding:0;margin:0">
 <li style="margin-bottom:0.5rem"><a href="https://ceaseanddesistdebt.com/?utm_source=362stay&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Cease and Desist Letters for Debt Collectors</a> <span style="color:#7d8590;font-size:0.8rem">-- ceaseanddesistdebt.com</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://chapter7vs13.org/?utm_source=362stay&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Chapter 7 vs. Chapter 13 Comparison</a> <span style="color:#7d8590;font-size:0.8rem">-- chapter7vs13.org</span></li>
 <li style="margin-bottom:0.5rem"><a href="https://1099cdebt.com/?utm_source=362stay&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">1099-C Cancellation of Debt Tax Guide</a> <span style="color:#7d8590;font-size:0.8rem">-- 1099cdebt.com</span></li>
-<li style="margin-bottom:0.5rem"><a href="https://727a8.com/?utm_source=362stay&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Section 727(a)(8) Discharge Waiting Period</a> <span style="color:#7d8590;font-size:0.8rem">-- 727a8.com</span></li>
 </ul>
 </div>
 <!-- BTN:FOOTER:START -->

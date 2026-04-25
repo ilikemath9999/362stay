@@ -20,39 +20,31 @@
 <link href="/favicon.svg" rel="icon" type="image/svg+xml"/>
 <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
 <meta content="no-referrer-when-downgrade" name="referrer"/>
-<title>What the Automatic Stay Stops: Complete List - 362 Stay</title>
-<meta content="Learn about what the automatic stay stops: complete list | automaticstay.org in our free 2026 guide. Clear explanations, real data, and practic..." name="description"/>
-<link href="https://automaticstay.org/what-it-stops.html" rel="canonical"/>
-<meta content="What the Automatic Stay Stops: Complete List - 362 Stay" property="og:title"/>
-<meta content="Learn about what the automatic stay stops: complete list | automaticstay.org in our free 2026 guide. Clear explanations, real data, and practic..." property="og:description"/>
+<title>Motions for Relief from Stay: When Creditors Ask to Proceed - 362 Stay</title>
+<meta content="When a creditor files a motion for relief from stay, they are asking the bankruptcy court to lift the automatic stay." name="description"/>
+<link href="https://automaticstay.org/relief-from-stay.html" rel="canonical"/>
+<meta content="Motions for Relief from Stay: When Creditors Ask to Proceed - 362 Stay" property="og:title"/>
+<meta content="When a creditor files a motion for relief from stay, they are asking the bankruptcy court to lift the automatic stay." property="og:description"/>
 <meta content="article" property="og:type"/>
-<meta content="https://automaticstay.org/what-it-stops.html" property="og:url"/>
+<meta content="https://automaticstay.org/relief-from-stay.html" property="og:url"/>
 <meta content="automaticstay.org" property="og:site_name"/>
 <meta content="summary_large_image" name="twitter:card"/>
-<meta content="What the Automatic Stay Stops: Complete List - 362 Stay" name="twitter:title"/>
-<meta content="Learn about what the automatic stay stops: complete list | automaticstay.org in our free 2026 guide. Clear explanations, real data, and practic..." name="twitter:description"/>
+<meta content="Motions for Relief from Stay: When Creditors Ask to Proceed - 362 Stay" name="twitter:title"/>
+<meta content="When a creditor files a motion for relief from stay, they are asking the bankruptcy court to lift the automatic stay." name="twitter:description"/>
 <meta content="https://automaticstay.org/og-image.svg" property="og:image"/>
 <meta content="https://automaticstay.org/og-image.svg" name="twitter:image"/>
 <style>
-  :root {
-    --bg: #0d1117; --surface: #161b22; --border: #30363d;
-    --text: #e6edf3; --text-muted: #9eaab6; --accent: #58a6ff;
-    --green: #3fb950; --red: #f85149;
-  }
+  :root { --bg: #0d1117; --surface: #161b22; --border: #30363d; --text: #e6edf3; --text-muted: #9eaab6; --accent: #58a6ff; --green: #3fb950; --red: #f85149; }
   * { margin: 0; padding: 0; box-sizing: border-box; }
   body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; background: var(--bg); color: var(--text); line-height: 1.7; }
-  a { color: var(--accent); text-decoration: none; }
-  a:hover { text-decoration: underline; }
+  a { color: var(--accent); text-decoration: none; } a:hover { text-decoration: underline; }
   a:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
   .skip-link { position: absolute; left: -9999px; top: auto; width: 1px; height: 1px; overflow: hidden; z-index: 9999; padding: 1rem; background: #238636; color: #fff; font-weight: 600; }
   .skip-link:focus { position: fixed; top: 10px; left: 10px; width: auto; height: auto; overflow: visible; }
   nav { background: var(--surface); border-bottom: 1px solid var(--border); padding: 0.75rem 2rem; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 0.5rem; }
-  nav .site-name { color: #f0f6fc; font-weight: 700; font-size: 1.1rem; text-decoration: none; }
-  nav .site-name:hover { color: var(--accent); text-decoration: none; }
+  nav .site-name { color: #f0f6fc; font-weight: 700; font-size: 1.1rem; text-decoration: none; } nav .site-name:hover { color: var(--accent); text-decoration: none; }
   .nav-links { display: flex; gap: 1.25rem; flex-wrap: wrap; align-items: center; }
-  .nav-links a { color: var(--text-muted); font-size: 0.9rem; }
-  .nav-links a:hover { color: var(--accent); text-decoration: none; }
-  .nav-links a.active { color: var(--accent); font-weight: 600; }
+  .nav-links a { color: var(--text-muted); font-size: 0.9rem; } .nav-links a:hover { color: var(--accent); text-decoration: none; } .nav-links a.active { color: var(--accent); font-weight: 600; }
   .hamburger { display: none; background: none; border: none; color: var(--text); font-size: 1.5rem; cursor: pointer; padding: 0.25rem; }
   header { background: var(--surface); border-bottom: 1px solid var(--border); padding: 2.5rem 2rem; text-align: center; }
   header h1 { color: #f0f6fc; font-size: 1.8rem; margin-bottom: 0.5rem; }
@@ -66,27 +58,19 @@
   .content-section li { margin-bottom: 0.5rem; }
   .highlight-box { background: #21262d; border-left: 3px solid var(--accent); padding: 1rem 1.25rem; border-radius: 0 6px 6px 0; margin: 1rem 0; }
   .highlight-box.warning { border-left-color: var(--red); }
-  .highlight-box.success { border-left-color: var(--green); }
-  .highlight-box p { margin-bottom: 0.5rem; }
-  .highlight-box p:last-child { margin-bottom: 0; }
-  .stopped-item { background: var(--surface); border: 1px solid var(--border); border-left: 3px solid var(--green); border-radius: 0 6px 6px 0; padding: 1rem 1.25rem; margin-bottom: 0.75rem; }
-  .stopped-item.not-stopped { border-left-color: var(--red); }
-  .stopped-item h3 { color: #f0f6fc; font-size: 1rem; margin: 0 0 0.5rem; }
-  .stopped-item p { margin-bottom: 0; }
+  .highlight-box p { margin-bottom: 0.5rem; } .highlight-box p:last-child { margin-bottom: 0; }
+  .timeline-item { background: var(--surface); border: 1px solid var(--border); border-left: 3px solid var(--accent); border-radius: 0 6px 6px 0; padding: 1rem 1.25rem; margin-bottom: 0.75rem; }
+  .timeline-item h3 { color: #f0f6fc; font-size: 1rem; margin: 0 0 0.5rem; }
+  .timeline-item p { margin-bottom: 0; }
   .network-footer { background: var(--surface); border-top: 1px solid var(--border); padding: 2rem; text-align: center; margin-top: 3rem; }
   .network-footer p { color: var(--text-muted); font-size: 0.85rem; margin-bottom: 0.5rem; }
   .network-footer .links { display: flex; justify-content: center; flex-wrap: wrap; gap: 1rem; margin-top: 0.75rem; }
-  .network-footer .links a { color: var(--text-muted); font-size: 0.85rem; }
-  .network-footer .links a:hover { color: var(--accent); }
+  .network-footer .links a { color: var(--text-muted); font-size: 0.85rem; } .network-footer .links a:hover { color: var(--accent); }
   .network-footer .disclaimer { margin-top: 1rem; font-size: 0.75rem; color: var(--text-muted); }
   @media (max-width: 600px) {
-    header h1 { font-size: 1.4rem; }
-    main { padding: 1.5rem 1rem; }
-    .content-section { padding: 1.25rem; }
-    nav { padding: 0.75rem 1rem; }
-    .hamburger { display: block; }
-    .nav-links { display: none; width: 100%; flex-direction: column; gap: 0.75rem; padding-top: 0.75rem; }
-    .nav-links.open { display: flex; }
+    header h1 { font-size: 1.4rem; } main { padding: 1.5rem 1rem; } .content-section { padding: 1.25rem; }
+    nav { padding: 0.75rem 1rem; } .hamburger { display: block; }
+    .nav-links { display: none; width: 100%; flex-direction: column; gap: 0.75rem; padding-top: 0.75rem; } .nav-links.open { display: flex; }
   }
 
 .breadcrumb-nav{font-size:0.85rem;color:#8b949e;padding:0.5rem 0;max-width:900px;margin:0 auto}.breadcrumb-nav a{color:#58a6ff;text-decoration:none}.breadcrumb-nav a:hover{text-decoration:underline}.breadcrumb-nav .separator{margin:0 0.5rem;color:#484f58}
@@ -97,7 +81,7 @@
   "@type": "BreadcrumbList",
   "itemListElement": [
     { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://automaticstay.org/" },
-    { "@type": "ListItem", "position": 2, "name": "What It Stops", "item": "https://automaticstay.org/what-it-stops.html" }
+    { "@type": "ListItem", "position": 2, "name": "Relief from Stay", "item": "https://automaticstay.org/relief-from-stay.html" }
   ]
 }
 </script>
@@ -107,8 +91,8 @@
   "@graph": [
     {
       "@type": "Article",
-      "headline": "What the Automatic Stay Stops",
-      "description": "Complete list of creditor actions stopped by the automatic stay in bankruptcy. Foreclosure, repossession, garnishment, lawsuits, collections, and more - plus w",
+      "headline": "Motions for Relief from Stay",
+      "description": "When a creditor files a motion for relief from stay, they are asking the bankruptcy court to lift the automatic stay. Learn the grounds, timeline, and how to op",
       "author": {
         "@type": "Organization",
         "name": "Open Bankruptcy Project"
@@ -120,12 +104,12 @@
       },
       "datePublished": "2026-03-28",
       "dateModified": "2026-03-29",
-      "mainEntityOfPage": "https://automaticstay.org/what-it-stops.html"
+      "mainEntityOfPage": "https://automaticstay.org/relief-from-stay.html"
     },
     {
       "@type": "WebPage",
-      "name": "What the Automatic Stay Stops",
-      "url": "https://automaticstay.org/what-it-stops.html",
+      "name": "Motions for Relief from Stay",
+      "url": "https://automaticstay.org/relief-from-stay.html",
       "speakable": {
         "@type": "SpeakableSpecification",
         "cssSelector": [
@@ -140,31 +124,10 @@
 }
 </script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "What is the automatic stay in bankruptcy?", "acceptedAnswer": {"@type": "Answer", "text": "The automatic stay is a court order that takes effect immediately when you file bankruptcy. It stops most collection actions, lawsuits, foreclosures, repossessions, wage garnishments, and creditor harassment. It remains in effect until the case is closed or the debt is discharged."}}, {"@type": "Question", "name": "Can a creditor violate the automatic stay?", "acceptedAnswer": {"@type": "Answer", "text": "Creditors who violate the automatic stay can be held in contempt of court. You may recover actual damages, attorney fees, and in some cases punitive damages. Common violations include continued collection calls, repossessing property, or proceeding with a lawsuit after notice of the filing."}}, {"@type": "Question", "name": "How long does the automatic stay last?", "acceptedAnswer": {"@type": "Answer", "text": "The stay lasts until the bankruptcy case is closed, dismissed, or the debtor receives a discharge. If you filed a previous case that was dismissed within the past year, the stay may only last 30 days unless you file a motion to extend it."}}, {"@type": "Question", "name": "Does the automatic stay stop eviction?", "acceptedAnswer": {"@type": "Answer", "text": "The stay temporarily stops most evictions, but landlords can request relief from stay. If the landlord already obtained a judgment for possession before you filed, the stay may not apply at all. The protection is limited and temporary in most eviction situations."}}, {"@type": "Question", "name": "What should I know before filing bankruptcy?", "acceptedAnswer": {"@type": "Answer", "text": "Bankruptcy is a legal process that can eliminate or restructure debts, but it has lasting effects on your credit and financial life. Before filing, understand which debts can be discharged, what property you can keep through exemptions, and which chapter fits your situation."}}]}
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "What Is a Motion for Relief from Stay?", "acceptedAnswer": {"@type": "Answer", "text": "A motion for relief from stay (sometimes called a \"lift stay motion\" or \"MFR\") is a request by a creditor asking the bankruptcy court to modify, condition, or terminate the automatic stay so the creditor can exercise its rights outside of bankruptcy."}}, {"@type": "Question", "name": "How to Oppose a Motion for Relief from Stay?", "acceptedAnswer": {"@type": "Answer", "text": "If you receive a motion for relief from stay, you need to act quickly. Here are the key strategies for opposing:"}}]}
 </script>
-<link href="https://automaticstay.org/what-it-stops.html" hreflang="en" rel="alternate"/>
-<link href="https://automaticstay.org/what-it-stops-es.html" hreflang="es" rel="alternate"/>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NonprofitOrganization",
-  "name": "Open Bankruptcy Project",
-  "alternateName": "OBP",
-  "url": "https://openbankruptcyproject.org",
-  "email": "info@openbankruptcyproject.org",
-  "taxID": "41-5159631",
-  "nonprofitStatus": "Nonprofit501c3",
-  "description": "The Open Bankruptcy Project is a 501(c)(3) nonprofit providing free tools, research, and consumer guides to help people navigate the federal bankruptcy system. We also conduct and publish empirical research on how the system actually works for consumers and share findings with rule-making bodies, regulators, and the public.",
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "1000 W 100th St",
-    "addressLocality": "Kansas City",
-    "addressRegion": "MO",
-    "postalCode": "64114",
-    "addressCountry": "US"
-  }
-}
-</script>
+<link href="https://automaticstay.org/relief-from-stay.html" hreflang="en" rel="alternate"/>
+<link href="https://automaticstay.org/relief-from-stay-es.html" hreflang="es" rel="alternate"/>
 </head>
 <body>
 <a class="skip-link" href="#main-content">Skip to main content</a>
@@ -173,86 +136,79 @@
 <button aria-expanded="false" aria-label="Toggle navigation menu" class="hamburger" onclick="var n=this.nextElementSibling;var open=n.classList.toggle('open');this.setAttribute('aria-expanded',open);">☰</button>
 <div class="nav-links">
 <a href="/">Home</a>
-<a class="active" href="/what-it-stops.html">What It Stops</a>
+<a href="/what-it-stops.html">What It Stops</a>
 <a href="/violations.html">Violations</a>
 <a href="/serial-filer-limits.html">Repeat Filers</a>
-<a href="/relief-from-stay.html">Relief from Stay</a>
+<a class="active" href="/relief-from-stay.html">Relief from Stay</a>
 <a href="/exceptions.html">Exceptions</a>
 </div>
 </nav>
 <header>
-<h1>What the Automatic Stay Stops</h1>
-<p class="subtitle">A complete breakdown of what creditors can and cannot do once you file for bankruptcy under 11 U.S.C. <a href="https://www.law.cornell.edu/uscode/text/11/362" rel="noopener" target="_blank">Section 362</a>.</p>
+<h1>Motions for Relief from Stay</h1>
+<p class="subtitle">When creditors ask the bankruptcy court to lift the automatic stay so they can proceed with foreclosure, repossession, or other collection.</p>
 </header>
 <main id="main-content">
-<nav aria-label="Breadcrumb" class="breadcrumb-nav"><a href="https://automaticstay.org/">Home</a><span class="separator">›</span><span>What It Stops</span></nav>
+<nav aria-label="Breadcrumb" class="breadcrumb-nav"><a href="https://automaticstay.org/">Home</a><span class="separator">›</span><span>Relief from Stay</span></nav>
 <div class="content-section">
-<h2>Actions the Automatic Stay Stops</h2>
-<p>Section 362(a) creates a broad injunction that halts nearly all creditor activity the moment a bankruptcy petition is filed. Below is a practical guide to the most common actions that are stayed, organized by category.</p>
-</div>
-<div class="stopped-item">
-<h3>Foreclosure</h3>
-<p>All mortgage foreclosure proceedings are halted, whether judicial or non-judicial. A scheduled foreclosure sale must be canceled or postponed. Even if the sale was hours away at the time of filing, it cannot proceed. If a foreclosure sale occurs after the petition is filed but before the creditor learns of the filing, courts generally treat the sale as void. The debtor may need to file the case with enough lead time for the court to notify the creditor - but the legal effect is retroactive to the moment of filing. See <a href="https://www.law.cornell.edu/uscode/text/11/362">Section 362(a)(1), (a)(3), (a)(4)</a>.</p>
-</div>
-<div class="stopped-item">
-<h3>Vehicle Repossession</h3>
-<p>Auto lenders cannot repossess vehicles after the petition is filed. If a vehicle is repossessed before filing, the debtor may be able to compel turnover of the vehicle under <a href="https://www.law.cornell.edu/uscode/text/11/542">Section 542</a>, depending on the timing and jurisdiction. If a creditor repossesses a vehicle after the filing, that is a clear stay violation under <a href="/violations.html">Section 362(k)</a>, and the creditor must return the vehicle and may be liable for damages. This applies to all secured personal property - not just vehicles.</p>
-</div>
-<div class="stopped-item">
-<h3>Wage Garnishment</h3>
-<p>All wage garnishments for pre-petition debts must stop. The debtor or debtor's attorney should notify the employer and the garnishing creditor of the bankruptcy filing. Any wages garnished after the petition date must be returned. State-law <a href="https://stopgarnishment.org/" title="wage garnishment">garnishment</a> proceedings are stayed under Section 362(a)(1) and (a)(2). Note: garnishments for domestic support obligations (child support, alimony) are NOT stayed. See <a href="/exceptions.html">exceptions</a>.</p>
-</div>
-<div class="stopped-item">
-<h3>Lawsuits Against the Debtor</h3>
-<p>All pending civil lawsuits against the debtor are frozen. No new lawsuits can be filed. This includes breach of contract claims, personal injury lawsuits (with some exceptions), collection suits, and deficiency actions. The plaintiff in a pending lawsuit must be notified and the case is typically stayed by filing a "Suggestion of Bankruptcy" in the state or federal court where the lawsuit is pending. The lawsuit remains frozen until the bankruptcy court lifts the stay or the case closes.</p>
-</div>
-<div class="stopped-item">
-<h3>Collection Calls and Letters</h3>
-<p>All collection activity must cease. This includes phone calls, letters, emails, text messages, and social media contacts. Debt collectors who continue calling after receiving notice of the filing violate both the <a href="https://automaticstay.org/" title="automatic stay">automatic stay</a> and potentially the Fair Debt Collection Practices Act. The debtor does not need to individually notify every creditor - the filing itself creates the stay - but providing written notice removes any defense that the violation was not "willful."</p>
-</div>
-<div class="stopped-item">
-<h3>Utility Disconnections</h3>
-<p>Under <a href="https://www.law.cornell.edu/uscode/text/11/366">Section 366</a>, utility companies (electric, gas, water, phone) cannot disconnect service for 20 days after the petition is filed based on pre-petition debt. Within that 20-day period, the debtor must provide adequate assurance of future payment - typically a deposit equal to one month's estimated service. If the debtor provides adequate assurance, the utility cannot disconnect for the duration of the case. Post-petition utility bills must be paid as they come due.</p>
-</div>
-<div class="stopped-item">
-<h3>Bank Account Levies and Freezes</h3>
-<p>Creditors cannot levy or freeze bank accounts after the petition is filed. If a creditor has already obtained a court order to seize funds but has not yet executed the levy, the stay prevents execution. If funds are frozen or seized after the filing, the creditor must release them. Banks sometimes freeze accounts upon learning of a bankruptcy filing to determine whether funds are property of the estate - this is distinct from a creditor levy and is generally permissible for a brief period.</p>
-</div>
-<div class="stopped-item">
-<h3>Tax Collection</h3>
-<p>The IRS and state tax authorities cannot proceed with liens, levies, or seizures for pre-petition tax debts. Tax assessments can continue (this is an exception under Section 362(b)(9)), but active collection is stayed. The stay does not prevent the filing of a tax return or the issuance of a tax refund, but it does prevent the IRS from offsetting a refund against pre-petition debt in some circumstances. Tax liens that attached before the filing remain in place but cannot be enforced.</p>
-</div>
-<div class="stopped-item">
-<h3>Eviction (Limited)</h3>
-<p>Eviction proceedings are stayed by the filing, but Section 362(b)(22) creates a significant exception: if the landlord obtained a judgment for possession before the petition was filed, the eviction may proceed despite the stay. The debtor can delay by filing a certification (and deposit) under Section 362(l) claiming the right to cure under applicable state law, but this provides only a 30-day window. In practice, the <a href="https://automaticstay.org/" title="automatic stay">automatic stay</a> provides much less protection for renters facing eviction than for homeowners facing foreclosure.</p>
+<h2>What Is a Motion for Relief from Stay?</h2>
+<p>A <a href="https://relieffromstay.org" rel="noopener" target="_blank" title="Motion for Relief from Stay - Open Bankruptcy Project">motion for relief</a> from stay (sometimes called a "lift stay motion" or "MFR") is a request by a creditor asking the bankruptcy court to modify, condition, or terminate the <a href="https://automaticstay.org/" title="automatic stay">automatic stay</a> so the creditor can exercise its rights outside of bankruptcy. This is the creditor's primary tool for getting around the stay without violating it.</p>
+<p>The legal authority is <a href="https://www.law.cornell.edu/uscode/text/11/362#d">11 U.S.C. Section 362(d)</a>, which provides four grounds for relief. The motion is filed in the bankruptcy court, the debtor has the right to respond and be heard, and the court must act within strict time limits.</p>
 </div>
 <div class="content-section">
-<h2>What the Stay Does NOT Stop</h2>
-<p>The following actions are specifically exempted from the automatic stay under <a href="https://www.law.cornell.edu/uscode/text/11/362#b">Section 362(b)</a>. Creditors or other parties can continue these actions even while the bankruptcy case is pending.</p>
+<h2>Grounds for Relief</h2>
+<p><a href="https://www.law.cornell.edu/uscode/text/11/362#d_0" rel="noopener" target="_blank">Section 362(d)</a> provides four separate grounds. A creditor needs to establish only one.</p>
+<h3>362(d)(1): For Cause, Including Lack of Adequate Protection</h3>
+<p>The most common ground. "Cause" is not defined in the statute and is determined on a case-by-case basis. The most frequently litigated form of cause is lack of <a href="https://relieffromstay.org/" title="adequate protection">adequate protection</a> - when the creditor's interest in collateral is declining in value and the debtor is not making payments or otherwise protecting the creditor's position. For example, if a homeowner has stopped making mortgage payments and the property is declining in value, the lender can argue that its security interest is not adequately protected.</p>
+<p>Other forms of "cause" include: the debtor has no intention of reorganizing, the property is not insured, or the debtor is wasting the collateral.</p>
+<h3>362(d)(2): No Equity and Not Necessary for Reorganization</h3>
+<p>Relief is granted if the debtor has no equity in the property AND the property is not necessary for an effective reorganization. Both elements must be met. This ground is commonly used for underwater properties - where the debt exceeds the value of the collateral. In <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a> cases, property is rarely "necessary for reorganization," making this ground easier to establish. In <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> cases, the debtor can argue that a vehicle or home is necessary for the reorganization plan.</p>
+<h3>362(d)(3): Single Asset Real Estate</h3>
+<p>For "single asset real estate" cases (a debtor whose primary asset is a single piece of real property generating income), the creditor can get relief if the debtor has not filed a reorganization plan within 90 days of the order for relief or started making interest payments to the creditor. This provision prevents investors from using bankruptcy to delay foreclosure on rental or commercial property without a genuine reorganization effort.</p>
+<h3>362(d)(4): Scheme to Delay, Hinder, or Defraud</h3>
+<p>Relief is granted if the court finds that the filing is part of a scheme to delay, hinder, or defraud creditors involving either a transfer of property without consent of the secured creditor or multiple bankruptcy filings affecting the same property. If relief is granted under this subsection, it can be made in rem - meaning it attaches to the property itself and prevents future filings from staying enforcement against that property for two years.</p>
 </div>
-<div class="stopped-item not-stopped">
-<h3>Criminal Proceedings</h3>
-<p>The government can prosecute criminal cases regardless of a bankruptcy filing. This includes criminal fraud charges, DUI proceedings, and any other criminal prosecution. Section 362(b)(1).</p>
+<div class="content-section">
+<h2>Timeline and Procedure</h2>
+<div class="timeline-item">
+<h3>Motion Filed</h3>
+<p>The creditor files the motion and serves it on the debtor, debtor's attorney, the trustee, and any committee. A filing fee is required (currently $181 in most districts).</p>
 </div>
-<div class="stopped-item not-stopped">
-<h3>Domestic Support Obligations</h3>
-<p>Collection of child support and alimony is not stayed. This includes wage withholding orders for support, contempt proceedings for unpaid support, and paternity and support establishment actions. Section 362(b)(2).</p>
+<div class="timeline-item">
+<h3>30 Days: Preliminary Hearing or Final Hearing</h3>
+<p>Under Section 362(e)(1), the court must commence a final hearing within 30 days of the motion being filed. If the final hearing is not commenced within 30 days, the stay is automatically terminated against the movant. The court can continue the preliminary hearing for up to 30 additional days for cause, but only if the stay remains in effect during the continuance.</p>
 </div>
-<div class="stopped-item not-stopped">
-<h3>Certain Tax Proceedings</h3>
-<p>Tax audits, tax assessments, tax demands, and issuance of deficiency notices may continue. Active collection (levies, seizures) is stayed, but the assessment process is not. Section 362(b)(9).</p>
+<div class="timeline-item">
+<h3>Response Deadline</h3>
+<p>The debtor typically has 14 days to respond (check local rules - some districts allow more or less time). A failure to respond may result in the motion being granted by default.</p>
 </div>
-<div class="stopped-item not-stopped">
-<h3>Government Regulatory and Police Power</h3>
-<p>Government agencies can continue enforcing regulatory actions related to public health, safety, and welfare. This includes environmental enforcement, building code violations, and professional license proceedings. Section 362(b)(4).</p>
+<div class="timeline-item">
+<h3>Hearing and Order</h3>
+<p>If the debtor opposes, the court holds a hearing. The burden of proof on equity issues falls on the debtor. The burden on all other issues falls on the creditor. The court may grant, deny, or condition relief (e.g., granting relief only if the debtor fails to make adequate protection payments going forward).</p>
 </div>
-<div class="stopped-item not-stopped">
-<h3>Prior Eviction Judgments</h3>
-<p>If a landlord already has a judgment for possession before the filing, eviction can proceed under Section 362(b)(22). The debtor has a narrow cure right under Section 362(l) in some states, but it is limited to 30 days.</p>
+<div class="highlight-box warning">
+<p><strong>Do not ignore a <a href="https://relieffromstay.org/" title="relief from stay">motion for relief from stay</a>.</strong> If you fail to respond and appear, the court may grant the motion by default. Once the stay is lifted, the creditor can proceed immediately with foreclosure, repossession, or other collection - and you lose the protection that makes bankruptcy effective.</p>
 </div>
-<p style="text-align:center;margin:2rem 0;"><a href="/exceptions.html">See the full list of exceptions under Section 362(b) →</a></p>
+</div>
+<div class="content-section">
+<h2>How to Oppose a Motion for Relief from Stay</h2>
+<p>If you receive a <a href="https://relieffromstay.org" rel="noopener" target="_blank" title="Motion for Relief from Stay - Open Bankruptcy Project">motion for relief</a> from stay, you need to act quickly. Here are the key strategies for opposing:</p>
+<h3>Show Adequate Protection</h3>
+<p>If the creditor argues lack of adequate protection, demonstrate that you are making payments (or propose to start), the property is insured, and the creditor's equity cushion is sufficient. Adequate protection can take the form of periodic cash payments, an additional lien on other property, or other relief that gives the creditor the "indubitable equivalent" of its interest.</p>
+<h3>Demonstrate Equity</h3>
+<p>If the creditor argues no equity under 362(d)(2), present evidence that the property is worth more than the debt - through appraisals, comparable sales, or tax assessments. Even a small amount of equity can defeat this prong.</p>
+<h3>Prove Necessity for Reorganization</h3>
+<p>In <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> cases, argue that the property is necessary for your reorganization - a vehicle you need for work, a home that provides housing, or business equipment needed to generate income for plan payments. You must have a viable plan that proposes to cure the arrearage and maintain ongoing payments.</p>
+<h3>Propose Conditions</h3>
+<p>Courts often grant conditional relief rather than outright termination. You can propose conditions: "Deny the motion so long as the debtor makes monthly adequate protection payments of $X beginning on [date]." This approach keeps the stay in place while protecting the creditor's interest going forward.</p>
+</div>
+<div class="content-section">
+<h2>Effect of Relief from Stay</h2>
+<p>When the court grants <a href="https://relieffromstay.org" rel="noopener" target="_blank" title="Relief from Automatic Stay - Open Bankruptcy Project">relief from stay</a>, the creditor is authorized to proceed with its state-law remedies as if the bankruptcy had not been filed - but only with respect to the specific property or action covered by the order. The stay remains in effect as to all other creditors and all other property.</p>
+<p>Relief from stay does not <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a> the debt, forgive the obligation, or affect the debtor's right to object to the creditor's claim in the bankruptcy case. It simply removes the stay's injunction with respect to that specific creditor and that specific collateral.</p>
+<p>If relief is granted and the creditor forecloses or repossesses, the debtor may still have a claim for any deficiency or surplus, depending on state law and the terms of the bankruptcy plan.</p>
+</div>
 <div class="highlight-box">
-<p><strong>Related resources:</strong> If a creditor has violated the stay, see <a href="/violations.html">What to Do About Stay Violations</a>. For the intersection of repeat filings and stay protection, see <a href="/serial-filer-limits.html">Automatic Stay Limits for Repeat Filers</a>. To check whether a prior filing affects your eligibility for <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a>, use the free <a href="https://1328f.com/check.html">Section 1328(f) Discharge Screener</a>.</p>
+<p><strong>Related pages:</strong> <a href="/">Automatic Stay Overview</a> - <a href="/what-it-stops.html">What the Stay Stops</a> - <a href="/violations.html">Stay Violations and Damages</a> - <a href="/serial-filer-limits.html">Repeat Filer Limits</a></p>
 </div>
 </main>
 <div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1.5rem;max-width:700px;margin:2rem auto">
@@ -303,8 +259,8 @@
 <p style="color:#f0f6fc;font-weight:700;font-size:1.05rem;margin:0 0 0.75rem 0">You May Also Find Helpful</p>
 <ul style="list-style:none;padding:0;margin:0">
 <li style="margin-bottom:0.5rem"><a href="https://ceaseanddesistdebt.com/?utm_source=362stay&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Cease and Desist Letters for Debt Collectors</a> <span style="color:#7d8590;font-size:0.8rem">-- ceaseanddesistdebt.com</span></li>
-<li style="margin-bottom:0.5rem"><a href="https://1099cdebt.com/?utm_source=362stay&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">1099-C Cancellation of Debt Tax Guide</a> <span style="color:#7d8590;font-size:0.8rem">-- 1099cdebt.com</span></li>
 <li style="margin-bottom:0.5rem"><a href="https://chapter7vs13.org/?utm_source=362stay&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Chapter 7 vs. Chapter 13 Comparison</a> <span style="color:#7d8590;font-size:0.8rem">-- chapter7vs13.org</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://1099cdebt.com/?utm_source=362stay&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">1099-C Cancellation of Debt Tax Guide</a> <span style="color:#7d8590;font-size:0.8rem">-- 1099cdebt.com</span></li>
 </ul>
 </div>
 <!-- BTN:FOOTER:START -->
